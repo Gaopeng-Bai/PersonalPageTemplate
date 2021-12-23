@@ -4,7 +4,7 @@
 - Personal website can be about anything you want, including hobbies, pets, or information like academics, achievements, work Experiences.
 - It can be a family website that shares your adventures with loved ones along with an area for comments and discussion.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/Gaopeng-Bai/PersonalPageTemplate/blob/main/public/assets/overview.png))
 ## Installation
 - Download or clone the repository into your local directory from [Here](https://github.com/Gaopeng-Bai/PersonalPageTemplate)
 - Make sure that you have node installed in your computer or [Install Node](https://nodejs.org/en/)
