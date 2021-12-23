@@ -4,8 +4,9 @@
 - Personal website can be about anything you want, including hobbies, pets, or information like academics, achievements, work Experiences.
 - It can be a family website that shares your adventures with loved ones along with an area for comments and discussion.
 
+![alt text](http://url/to/img.png)
 ## Installation
-- Download or clone the repository into your local directory from [Here](https://github.com/Sayan3990/Personal-Website-Template)
+- Download or clone the repository into your local directory from [Here](https://github.com/Gaopeng-Bai/PersonalPageTemplate)
 - Make sure that you have node installed in your computer or [Install Node](https://nodejs.org/en/)
 - Inside the local directory here you have downloaded this repository, open your terminal
 - Run this command to download all dependencies for this project
@@ -26,13 +27,9 @@
 - `react-bootstrap@1.6.1`
 - `react-bootstrap-icons@1.5.0`
 
-## Deployment
-- Visit [Deployed Site](https://personal-website-template-by-sayan.netlify.app/)
-- Visit [My Personal Website](https://sayanbhattacharyya.me)
-
 ## Quick Start
 #### Do you Want to use this template quickly? - follow the steps
-- First you have to download this repo in your local directory or refer [installation](https://github.com/Sayan3990/Personal-Website-Template#readme) section
+- First you have to download this repo in your local directory or refer [installation](https://github.com/Gaopeng-Bai/PersonalPageTemplate#readme) section
 - If you wanted to edit this template with your information quickly
 - Go to `/src/shared` folder and open `YourInformation.ts` file
 - Here you can add or edit your information, which will automatically reflected to the website
